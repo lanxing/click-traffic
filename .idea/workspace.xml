@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1450f84-2c53-4daf-9c23-656c68b1386d" name="Default Changelist" comment="" />
+    <list default="true" id="a1450f84-2c53-4daf-9c23-656c68b1386d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/traffic.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/TrafficApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/TrafficApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/AbsProxyKt$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/AbsProxyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/consumer/HttpClientClickServiceKt$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/consumer/HttpClientClickServiceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/model/IpAddress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/observer/DelayThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/observer/ThreadPoolListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/CrossinProxyKt$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/CrossinProxyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/KuaidailiKt$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/KuaidailiKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/XicidailiKt$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/XicidailiKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/XiladailiKt$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/XiladailiKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/service/ClickService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/traffic.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lanxing/traffic/traffic/TrafficApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/traffic-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/traffic-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +62,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/AbsProxyKt.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="4" />
+            <state relative-caret-position="351">
+              <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="397" column="13" selection-start-line="397" selection-start-column="13" selection-end-line="397" selection-end-column="13" />
+              <folding>
+                <element signature="e#6812#6813#0" expanded="true" />
+                <element signature="e#6849#6850#0" expanded="true" />
+                <element signature="e#9697#9698#0" expanded="true" />
+                <element signature="e#9732#9733#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/CrossinProxyKt.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="253">
+              <caret line="18" column="77" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="77" />
               <folding>
                 <element signature="e#50#223#0" expanded="true" />
               </folding>
@@ -50,19 +96,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.2.71/kotlin-stdlib-common-1.2.71-sources.jar!/generated/_Collections.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="1490" selection-start-line="1490" selection-end-line="1490" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/KuaidailiKt.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="17" column="61" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="61" />
               <folding>
                 <element signature="e#50#238#0" expanded="true" />
               </folding>
@@ -73,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/XiladailiKt.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="267">
+              <caret line="17" column="56" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="56" />
               <folding>
                 <element signature="e#50#238#0" expanded="true" />
               </folding>
@@ -83,19 +120,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/consumer/HttpClientClickServiceKt.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/service/ClickService.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="51" selection-start-line="51" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
+            <state relative-caret-position="164">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding>
                 <element signature="e#52#582#0" expanded="true" />
                 <element signature="e#871#886#1" expanded="true" />
@@ -105,10 +133,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/target/classes/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="210">
+                <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -123,10 +154,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/observer/ThreadPoolListener.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/XicidailiKt.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="169">
+              <caret line="17" column="62" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="62" />
               <folding>
                 <element signature="e#50#238#0" expanded="true" />
               </folding>
@@ -202,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/AbsProxyKt.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/service/ClickService.kt" />
         <option value="$PROJECT_DIR$/target/classes/application.properties" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -241,6 +282,24 @@
             </path>
             <path>
               <item name="traffic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traffic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traffic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traffic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traffic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traffic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traffic" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -261,7 +320,7 @@
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558076599177" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558079312128" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -274,6 +333,9 @@
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="com.lanxing.traffic.traffic.ippool.model" />
       <recent name="com.lanxing.traffic.traffic.ippool" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -428,7 +490,7 @@
       <workItem from="1557108811573" duration="11196000" />
       <workItem from="1557194653014" duration="8163000" />
       <workItem from="1557904465943" duration="6832000" />
-      <workItem from="1557911608052" duration="17308000" />
+      <workItem from="1557911608052" duration="20108000" />
     </task>
     <servers />
   </component>
@@ -465,12 +527,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71511000" />
+    <option name="totallyTimeSpent" value="74311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7462963" visible="true" weight="0.15593705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7462963" visible="true" weight="0.15593705" />
       <window_info id="Structure" order="1" sideWeight="0.2537037" side_tool="true" visible="true" weight="0.15593705" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,11 +546,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3493976" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3493976" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32891566" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -558,7 +620,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/AbsProxy.java" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/Kuaidaili.java" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/Xicidaili.java" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/Xiladaili.java" />
@@ -798,19 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
-          <folding>
-            <element signature="e#6812#6813#0" expanded="true" />
-            <element signature="e#6849#6850#0" expanded="true" />
-            <element signature="e#9697#9698#0" expanded="true" />
-            <element signature="e#9732#9733#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/UnwarrantedOptimismException.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -822,13 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/observer/ThreadPoolListener.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -846,17 +887,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/target/classes/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="50" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/observer/ThreadPoolListener.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/service/ClickService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="e#52#582#0" expanded="true" />
+            <element signature="e#871#886#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="397" column="13" selection-start-line="397" selection-start-column="13" selection-end-line="397" selection-end-column="13" />
+          <folding>
+            <element signature="e#6812#6813#0" expanded="true" />
+            <element signature="e#6849#6850#0" expanded="true" />
+            <element signature="e#9697#9698#0" expanded="true" />
+            <element signature="e#9732#9733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/AbsProxyKt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/CrossinProxyKt.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="253">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="77" />
           <folding>
             <element signature="e#50#223#0" expanded="true" />
           </folding>
@@ -865,8 +944,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/KuaidailiKt.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="105">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="61" />
           <folding>
             <element signature="e#50#238#0" expanded="true" />
           </folding>
@@ -875,8 +954,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/XicidailiKt.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="169">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="62" />
           <folding>
             <element signature="e#50#238#0" expanded="true" />
           </folding>
@@ -885,36 +964,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/proxy/XiladailiKt.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="267">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="56" />
           <folding>
             <element signature="e#50#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/AbsProxyKt.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="144" column="4" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/service/ClickService.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="51" selection-start-line="51" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
-          <folding>
-            <element signature="e#52#582#0" expanded="true" />
-            <element signature="e#871#886#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
