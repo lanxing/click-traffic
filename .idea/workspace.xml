@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1450f84-2c53-4daf-9c23-656c68b1386d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/traffic.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/TrafficApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/TrafficApplicationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/AbsProxyKt$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/AbsProxyKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/consumer/HttpClientClickServiceKt$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/consumer/HttpClientClickServiceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/model/IpAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/observer/DelayThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/observer/ThreadPoolListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/CrossinProxyKt$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/CrossinProxyKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/KuaidailiKt$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/KuaidailiKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/XicidailiKt$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/XicidailiKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/XiladailiKt$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/proxy/XiladailiKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lanxing/traffic/traffic/ippool/service/ClickService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/traffic.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lanxing/traffic/traffic/TrafficApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/traffic-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/traffic-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -136,8 +108,20 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="210">
-                <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+              <first_editor relative-caret-position="-632">
+                <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HELP.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="388">
+                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -149,15 +133,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="50" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/lanxing/traffic/traffic/ippool/observer/ThreadPoolListener.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -320,7 +295,7 @@
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558079477149" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558079720480" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -490,7 +465,7 @@
       <workItem from="1557108811573" duration="11196000" />
       <workItem from="1557194653014" duration="8163000" />
       <workItem from="1557904465943" duration="6832000" />
-      <workItem from="1557911608052" duration="20108000" />
+      <workItem from="1557911608052" duration="20369000" />
     </task>
     <servers />
   </component>
@@ -527,12 +502,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74311000" />
+    <option name="totallyTimeSpent" value="74572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7462963" visible="true" weight="0.15593705" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7462963" visible="true" weight="0.15593705" />
       <window_info id="Structure" order="1" sideWeight="0.2537037" side_tool="true" visible="true" weight="0.15593705" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -550,7 +525,7 @@
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3493976" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3493976" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32891566" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -684,16 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2777">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HELP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -979,11 +944,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="388">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="210">
-            <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <first_editor relative-caret-position="-632">
+            <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
